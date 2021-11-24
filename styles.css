@@ -1,0 +1,26 @@
+.rps img:hover{
+    box-shadow: 0px 10px 50px rgb(233, 37, 223);
+}
+
+.game1{
+    text-align: center;
+}
+.game1{
+    border: solid 10px black;
+    height: 30vh;
+ background-color: #000;
+}
+
+.rps{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+  
+
+}
+
+.game1 h2:nth-of-type(1){
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    color: blueviolet;
+}
